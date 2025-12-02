@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi, I'm Saad Ouafir</h1>
 <h3 align="center">Cyber Security Student | DevSecOps Learner | IT Enthusiast</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
+</p>
 
 ### 🚀 About Me
 - 🎓 Cyber Security student exploring **Blue Team**, **secure design**, and **cloud security**  
@@ -36,15 +41,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saad-ouafir&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saad-ouafir&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
 </p>
 
 ---
