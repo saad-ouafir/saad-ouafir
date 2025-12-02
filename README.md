@@ -1,8 +1,6 @@
-```
-Hello World ! 👋
-```
 <h1 align="center">👋 Hi, I'm Saad Ouafir</h1>
 <h3 align="center">Cyber Security Student | DevSecOps Learner | IT Enthusiast</h3>
+---
 
 ### 🚀 About Me
 - 🎓 Cyber Security student exploring **Blue Team**, **secure design**, and **cloud security**  
