@@ -1,18 +1,14 @@
+```
+Hello World ! 👋
+```
 <h1 align="center">👋 Hi, I'm Saad Ouafir</h1>
 <h3 align="center">Cyber Security Student | DevSecOps Learner | IT Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saad-ouafir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
 ### 🚀 About Me
-- 🎓 Cyber Security student exploring **ethical hacking**, **secure design**, and **cloud security**  
+- 🎓 Cyber Security student exploring **Blue Team**, **secure design**, and **cloud security**  
 - 💻 Passionate about **DevSecOps**, **automation**, and **modern web technologies**  
 - 🔍 Always learning, always building, always curious  
 - 📚 Sharing my journey with simple explanations and real projects
-
 ---
 
 ### 🛠️ Skills & Tools
@@ -21,7 +17,7 @@
 `Kali Linux` • `Burp Suite` • `Nmap` • `Metasploit` • `OWASP Top 10`
 
 #### **Development**
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Next.js`
+`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Express.js`
 
 #### **DevOps | Cloud**
 `Docker` • `Nginx` • `GitHub Actions` • `Linux` • `Kubernetes (learning)`  
@@ -56,4 +52,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects and follow my journey.*  
+⭐ *Thanks for visiting my profile! Feel free to provide your feedback on my projects.*  
